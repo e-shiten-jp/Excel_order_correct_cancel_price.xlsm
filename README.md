@@ -75,7 +75,14 @@ Excel vbaでの注文訂正取消と株価を取得するサンプル
 	信用	信用_返済_売り注文_個別指定	order_hensai_sell_aCLMKabuHensaiData
 	株価	日足データ取得		get_CLMMfdsGetMarketPriceHistory
 	株価	スナップショット	get_CLMMfdsGetMarketPrice
-	
+	マスター	マスター_個別　株式銘柄	get_master_kobetu_CLMIssueMstKabu
+	マスター	マスター_個別　銘柄市場	get_master_kobetu_CLMIssueSizyouMstKabu
+	マスター	マスター_個別　先物	get_master_kobetu_CLMIssueMstSak
+	マスター	マスター_個別　OP	get_master_kobetu_CLMIssueMstOp
+	マスター	マスター_個別　指数、為替、その他	get_master_kobetu_CLMIssueMstOther
+	マスター	マスター_個別　取引所エラー理由コード	get_master_kobetu_CLMOrderErrReason
+	マスター	マスター_個別　日付情報	get_master_kobetu_CLMDateZyouhou
+
 
 
 ７）利用時間外に接続した場合、"p_errno":"9"（システム、サービス停止中。）が返されます。詳しくは「立花証券・ｅ支店・ＡＰＩ、EVENT I/F 利用方法、データ仕様」4ページをご参照ください。デモ環境の利用時間は、デモ環境の説明ページを参照ください。
