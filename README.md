@@ -82,6 +82,7 @@ Excel vbaでの注文訂正取消と株価を取得するサンプル
 	マスター	マスター_個別　指数、為替、その他	get_master_kobetu_CLMIssueMstOther
 	マスター	マスター_個別　取引所エラー理由コード	get_master_kobetu_CLMOrderErrReason
 	マスター	マスター_個別　日付情報	get_master_kobetu_CLMDateZyouhou
+ 	（現在、マスターデータの更新に不具合が発生しており、誤った情報が記載されています。ご注意ください。）
 
 
 
