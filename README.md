@@ -1,5 +1,4 @@
-# Excel_order_correct_cancel_price.xlsm
-Excel vbaでの注文訂正取消と株価を取得するサンプル 
+# Excel vbaでの注文訂正取消と株価を取得するサンプル 
 
 	ファイル名: e_api_注文訂正取消株価サンプル_電話対応.xlsm
 	言語：Excel VBA
