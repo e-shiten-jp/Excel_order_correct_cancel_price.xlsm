@@ -1,4 +1,4 @@
-# Excel vbaでの注文訂正取消と株価を取得するサンプル 
+# Excel vbaでe支店APIを利用するサンプル 
 
 	ファイル名: e_api_注文訂正取消株価サンプル_電話対応.xlsm
 	言語：Excel VBA
