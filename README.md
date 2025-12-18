@@ -1,6 +1,6 @@
 # Excel vbaでe支店APIを利用するサンプル 
 
-	ファイル名: e_api_ExcelVBA_API利用サンプル_電話対応.xlsm
+	ファイル名: e_api_Excel_VBA_api_sample_tel.xlsm
 	言語：Excel VBA
 	APIバージョン： V4r8で動作確認
 
