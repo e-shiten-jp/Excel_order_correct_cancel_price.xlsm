@@ -64,9 +64,6 @@
 	照会	照会_注文約定一覧	get_CLMOrderList
 	照会	照会_注文約定一覧_詳細	get_CLMOrderListDetail
 	現物	現物_買い注文	order_gen_buy
-	現物	現物_取消	cancel_order
-	現物	現物_一括取消	cancel_all_order
-	現物	現物_訂正	correct_order
 	現物	現物_預り株一覧	get_CLMGenbutuKabuList
 	現物	現物_売り注文	order_gen_sell
 	信用	信用_新規_買い注文	order_shinki_buy
@@ -76,6 +73,9 @@
 	信用	信用_返済_売り注文	order_hensai_sell
 	信用	信用_返済_買い注文_個別指定	order_hensai_buy_aCLMKabuHensaiData
 	信用	信用_返済_売り注文_個別指定	order_hensai_sell_aCLMKabuHensaiData
+	訂正・取消 取消	cancel_order
+	訂正・取消 一括取消	cancel_all_order
+	訂正・取消 訂正	correct_order
 	株価	日足データ取得		get_CLMMfdsGetMarketPriceHistory
 	株価	スナップショット	get_CLMMfdsGetMarketPrice
 	マスター	マスター_個別　株式銘柄	get_master_kobetu_CLMIssueMstKabu
